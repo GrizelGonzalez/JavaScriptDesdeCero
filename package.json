@@ -1,0 +1,19 @@
+{
+  "name": "javascript-desde-cero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sintaxis_tipos",
+  "scripts": {
+  "start": "node ./src/sintaxis_tipos",
+  "other": "node ./src/tipos_operadores",
+  "other1": "node ./src/strings",
+  "other2": "node ./src/objeto_math",
+  "other3": "node ./src/condicionales_I",
+  "other4": "node ./src/ejercicio_ordenar3_numeros"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
