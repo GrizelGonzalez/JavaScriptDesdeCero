@@ -4,12 +4,14 @@
   "description": "",
   "main": "sintaxis_tipos",
   "scripts": {
-  "start": "node ./src/sintaxis_tipos",
-  "other": "node ./src/tipos_operadores",
-  "other1": "node ./src/strings",
-  "other2": "node ./src/objeto_math",
-  "other3": "node ./src/condicionales_I",
-  "other4": "node ./src/ejercicio_ordenar3_numeros"
+    "start": "node ./src/module_03/sintaxis_tipos",
+    "other": "node ./src/module_03/tipos_operadores",
+    "other1": "node ./src/module_03/strings",
+    "other2": "node ./src/module_03/objeto_math",
+    "other3": "node ./src/module_03/condicionales_I",
+    "other4": "node ./src/module_03/ejercicio_ordenar3_numeros",
+    "other5": "node ./src/module_03/condicional_switch"
+
   },
   "author": "",
   "license": "ISC",
