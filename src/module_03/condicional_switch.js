@@ -21,7 +21,7 @@ switch (num) {
     break;
   case 2:
   case 4:
-    console.log(`${num} es pas`);
+    console.log(`${num} es par`);
     break;
 }
 

@@ -10,7 +10,8 @@
     "other2": "node ./src/module_03/objeto_math",
     "other3": "node ./src/module_03/condicionales_I",
     "other4": "node ./src/module_03/ejercicio_ordenar3_numeros",
-    "other5": "node ./src/module_03/condicional_switch"
+    "other5": "node ./src/module_03/condicional_switch",
+    "other6": "node ./src/module_03/operador_ternario"
 
   },
   "author": "",
