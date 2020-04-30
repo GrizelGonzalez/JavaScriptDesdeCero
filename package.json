@@ -13,7 +13,9 @@
     "other5": "node ./src/module_03/condicional_switch",
     "other6": "node ./src/module_03/operador_ternario",
     "other7": "node ./src/module_03/arrays_I",
-    "other8": "node ./src/module_03/arrays_II"
+    "other8": "node ./src/module_03/arrays_II",
+    "other9": "node ./src/module_03/bucle_while_do_while",
+    "other10": "node ./src/module_03/bucle_for"
 
   },
   "author": "",
