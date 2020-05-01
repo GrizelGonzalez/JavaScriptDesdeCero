@@ -14,9 +14,10 @@ console.log(Array.isArray(numbers));
 console.log(Array.isArray(number));
 
 /*Eliminar un elemento
-.shift() Elimina el primer elemento del array y devuelve ese elemento
-.pop() Elimina el último elemento de un array y devuelve ese elemento*/
+.shift() Elimina el primer elemento o te retorna el primer elemento del array y devuelve ese elemento
+.pop() Elimina el último elemento te retorna el ultimo elemento de un array y devuelve ese elemento*/
 
+//console.log(number.shift());//
 console.log(numbers);
 numbers.shift();
 console.log(`Primer numero eliminado: `+numbers);
