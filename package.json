@@ -17,7 +17,8 @@
     "m:3-bucle_while_do_while": "node ./src/module_03/bucle_while_do_while",
     "m:3-bucle_for": "node ./src/module_03/bucle_for",
     "m:3-bucleFor_forIn": "node ./src/module_03/bucleFor_forIn",
-    "m:4-objetos": "node ./src/module_04/objetos"
+    "m:4-objetos": "node ./src/module_04/objetos",
+    "m:4-funciones": "node ./src/module_04/funciones"
   },
   "author": "",
   "license": "ISC",
