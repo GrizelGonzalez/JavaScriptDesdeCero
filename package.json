@@ -15,7 +15,8 @@
     "m:3-arrays_I": "node ./src/module_03/arrays_I",
     "m:3-arrays_II": "node ./src/module_03/arrays_II",
     "m:3-bucle_while_do_while": "node ./src/module_03/bucle_while_do_while",
-    "m:3-bucle_for": "node ./src/module_03/bucle_for"
+    "m:3-bucle_for": "node ./src/module_03/bucle_for",
+    "m:3-bucleFor_forIn": "node ./src/module_03/bucleFor_forIn"
   },
   "author": "",
   "license": "ISC",
