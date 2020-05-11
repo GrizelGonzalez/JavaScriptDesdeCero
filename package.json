@@ -19,7 +19,8 @@
     "m:3-bucleFor_forIn": "node ./src/module_03/bucleFor_forIn",
     "m:4-objetos": "node ./src/module_04/objetos",
     "m:4-funciones": "node ./src/module_04/funciones",
-    "m:4-programacion_orientada_objetos": "node ./src/module_04/programacion_orientada_objetos"
+    "m:4-programacion_orientada_objetos": "node ./src/module_04/programacion_orientada_objetos",
+    "m:4-clases_objetos": "node ./src/module_04/clases_objetos"
 
   },
   "author": "",
