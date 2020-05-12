@@ -6,6 +6,14 @@ class Book {
     this.genero = genero;
   }
 
+  getAuthor(){
+    return this.autor
+  }
+
+  getGender(){
+    return this.genero
+  }
+
   bookInfo() {
     return `${this.titulo} es un libro de ${this.genero} 
         escrito por ${this.autor} en el año ${this.anio}`;
@@ -35,6 +43,30 @@ while (books.length < 2) {
 
 const showAllBooks = () => {
   console.log(books);
-};
+  
+}
 
-showAllBooks();
+const showAuthors = () =>{
+  let autor = []
+
+  for (const book of books){
+    autor.push(book.getAuthor());
+
+  }
+  console.log(autor.sort());
+  
+}
+
+const showGender = () => {
+  const genero = prompt('Introduzca el genero a buscar')
+
+  for (const book of books) {
+    if (book.getGender() == genero) {
+      console.log(book.bookInfo());
+    }
+  }
+}
+
+//showAllBooks();
+//showAuthors();
+showGender();
