@@ -20,7 +20,8 @@
     "m:4-objetos": "node ./src/module_04/objetos",
     "m:4-funciones": "node ./src/module_04/funciones",
     "m:4-programacion_orientada_objetos": "node ./src/module_04/programacion_orientada_objetos",
-    "m:4-clases_objetos": "node ./src/module_04/clases_objetos"
+    "m:4-clases_objetos": "node ./src/module_04/clases_objetos",
+    "m:4-metodos_arrays": "node ./src/module_04/metodos_arrays"
 
   },
   "author": "",
