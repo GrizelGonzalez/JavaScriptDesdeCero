@@ -22,7 +22,8 @@
     "m:4-programacion_orientada_objetos": "node ./src/module_04/programacion_orientada_objetos",
     "m:4-clases_objetos": "node ./src/module_04/clases_objetos",
     "m:4-metodos_arrays": "node ./src/module_04/metodos_arrays",
-    "m:4-spread_operator": "node ./src/module_04/spread_operator"
+    "m:4-spread_operator": "node ./src/module_04/spread_operator",
+    "m:4-callbacks": "node ./src/module_04/callbacks"
     
 
   },
