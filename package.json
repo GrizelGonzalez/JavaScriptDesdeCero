@@ -24,7 +24,8 @@
     "m:4-metodos_arrays": "node ./src/module_04/metodos_arrays",
     "m:4-spread_operator": "node ./src/module_04/spread_operator",
     "m:4-callbacks": "node ./src/module_04/callbacks",
-    "m:4-async_await": "node ./src/module_04/async_await"
+    "m:4-async_await": "node ./src/module_04/async_await",
+    "m:9-destructuring": "node ./src/module_09/destructuring"
   
     
   },
