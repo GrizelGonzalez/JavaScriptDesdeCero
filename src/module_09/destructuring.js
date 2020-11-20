@@ -14,11 +14,22 @@ const email = person.email*/
 //DESTRUCTURING
 const{name, age, email} = person
 
-console.log(name, age, email)
+//console.log(name, age, email)
 
 //ARREGLO
-const numbers = [1, 2, 3, 4]
+//const numbers = [1, 2, 3, 4]
+///console.log(...numbers);
+//const[a, b, terceraPosicion] = numbers
 
-const[a, b, terceraPosicion] = numbers
+//console.log(`Posicion del arreglo es: ${terceraPosicion}`)
+const sum = (...params) => {
+    let flattened = params.flat(Infinity)
+    return flattened.reduce((accumulator, currentValue) => accumulator + currentValue);
+}
+const total = sum([1, 4, 5, [8 ,2, [2]]], [5,3]);
+const total2 = sum(1, 4, 5, 8 ,2);
 
-console.log(`Posicion del arreglo es: ${terceraPosicion}`)
+
+console.log(total);
+console.log(total2);
+//console.log(numbers.reduce((acc, cur) => acc += cur));

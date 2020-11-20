@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button id="date">Get Date</button>
+<div class="demo"></div>
+</body>
+<script>
+    const date = () => document.querySelector('.demo').innerHTML = new Date().toDateString();
+    // first option
+    document.getElementById('date').onclick = date;
+    // second option
+    document.addEventListener('click', date)
+</script>
+</html>
